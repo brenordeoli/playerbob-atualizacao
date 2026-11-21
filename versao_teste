@@ -1,4 +1,4 @@
-codigo=78
-versao=7.8
+codigo=80
+versao=8.0
 apk=https://github.com/brenordeoli/playerbob-atualizacao/releases/latest/download/PLAYER_BOB_TESTE.apk
-novidades=Limitador de 0 a 100% | Compensação de volume liga/desliga | Cada pasta com sua ordem | MASTER mais estreito | Nova Luz do VU: LED Realista ou Simples
+novidades=Correção do app fechando por falta de memória | Capas mais rápidas em celular bom | Número do volume cabe no MASTER | Compensação de volume ligada como padrão | Luz do VU leve como padrão
