@@ -1,4 +1,4 @@
 codigo=78
 versao=7.8
 apk=https://github.com/brenordeoli/playerbob-atualizacao/releases/latest/download/PLAYER_BOB_TESTE.apk
-novidades=Atualização dentro do app | Logo muda de cor junto com a interface | Fader do volume só mexe arrastando | Correção do pendrive que fechava o app
+novidades=Limitador de 0 a 100% | Compensação de volume liga/desliga | Cada pasta com sua ordem | MASTER mais estreito | Nova Luz do VU: LED Realista ou Simples
