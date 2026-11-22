@@ -1,4 +1,4 @@
-codigo=80
-versao=8.0
+codigo=81
+versao=8.1
 apk=https://github.com/brenordeoli/playerbob-atualizacao/releases/latest/download/PLAYER_BOB_TESTE.apk
-novidades=Correção do app fechando por falta de memória | Capas mais rápidas em celular bom | Número do volume cabe no MASTER | Compensação de volume ligada como padrão | Luz do VU leve como padrão
+novidades=Regular som no EQ: ruído rosa e frequência fixa | Analisador pelo microfone | Fader novo maior com LED | Cor do fader nas configurações
