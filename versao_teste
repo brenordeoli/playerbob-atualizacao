@@ -1,4 +1,4 @@
-codigo=86
-versao=8.6
+codigo=87
+versao=8.7
 apk=https://github.com/brenordeoli/playerbob-atualizacao/releases/latest/download/PLAYER_BOB_TESTE.apk
-novidades=VU mais dinâmico, acompanhando a batida | Equalizador mais preciso e sem estalos | Analisador profissional com barras 1/3 de oitava e memória | Configurações organizadas | Limitador começa em 50% | Modo leve agora pode ser desligado
+novidades=Analisador com escala automática: a curva não corta mais em cima com grave forte
