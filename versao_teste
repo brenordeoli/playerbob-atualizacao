@@ -1,4 +1,4 @@
-codigo=82
-versao=8.2
+codigo=83
+versao=8.3
 apk=https://github.com/brenordeoli/playerbob-atualizacao/releases/latest/download/PLAYER_BOB_TESTE.apk
-novidades=Fader mais leve, sem travadas | Textos sempre dentro dos botões (mesmo com a fonte do celular grande) | Tela de arquivos ajustada
+novidades=Modo leve automático para aparelhos mais fracos (app mais rápido) | Linha de trocar pasta ajustada com o celular deitado
