@@ -1,4 +1,4 @@
-codigo=89
-versao=8.9
+codigo=90
+versao=9.0
 apk=https://github.com/brenordeoli/playerbob-atualizacao/releases/latest/download/PLAYER_BOB_CONNECT.apk
-novidades=Limitador por faixa: grave, médio, drive e super tweeter, cada um com seu limite | Tocar a seguir continua na pasta da música | Lista de pastas sempre começa do topo
+novidades=Foto de fundo e miniatura funcionando em todos os celulares (inclusive fotos HEIC e do Google Fotos)
