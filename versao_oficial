@@ -1,4 +1,4 @@
-codigo=97
-versao=9.7
+codigo=98
+versao=9.8
 apk=https://github.com/brenordeoli/playerbob-atualizacao/releases/latest/download/PLAYER_BOB_CONNECT.apk
-novidades=Multimídia em pé: tela inicial e Arquivos ajustados, sem nada passando da tela | Multimídia em pé: logo menor, capa maior e mais pastas aparecendo | Botão da PLAYLIST BOB ao lado do + PASTA na multimídia em pé
+novidades=As músicas importadas continuam no app depois de fechar e abrir | Pastas escolhidas em Downloads também voltam sozinhas | Aleatório com 2 modos: só na pasta ou em TUDO | Música do pendrive toca mesmo com pouca memória | Importar funciona na hora, mesmo com a nuvem carregando | Se a atualização não baixar no app, um botão baixa pelo navegador
